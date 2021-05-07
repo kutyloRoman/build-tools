@@ -1,0 +1,15 @@
+plugins {
+  id 'java'
+}
+
+repositories {
+  jcenter()
+  mavenCentral()
+}
+
+dependencies {
+//  constraints{
+//
+//  }
+  testImplementation group: 'junit', name: 'junit', version: '4.13.2'
+}
