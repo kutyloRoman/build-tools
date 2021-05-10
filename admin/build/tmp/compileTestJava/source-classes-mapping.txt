@@ -1,2 +1,0 @@
-com/builders/admin/AdminEntryPointTest.java
- com.builders.admin.AdminEntryPointTest

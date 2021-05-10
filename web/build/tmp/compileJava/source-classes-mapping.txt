@@ -1,2 +1,0 @@
-com/builders/web/HelloServlet.java
- com.builders.web.HelloServlet
